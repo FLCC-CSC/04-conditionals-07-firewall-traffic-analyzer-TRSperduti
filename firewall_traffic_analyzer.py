@@ -107,7 +107,7 @@ Risk Assessment: UNKNOWN: Unrecognized traffic pattern.
 
 1. Did you get tripped up using the `or` or `and` operators? If so, how?
 
-
+I understand how to use both but the "and" is easier for me
 
 
 
